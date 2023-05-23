@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.top-wrap__ttl{
+  position: relative;
+  justify-content: center;
+  margin-top: 10%; 
+  flex-direction: column;
+}
+
