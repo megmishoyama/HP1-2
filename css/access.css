@@ -89,8 +89,8 @@
 
 .map-wrap__acc__right__ttl__log{
   position: absolute;
-  left: -1%;
-  top: 6%;
+  left: -7%;
+  top: 4%;
 }
 
 .map-wrap__acc__right__ttl__log img{
@@ -118,11 +118,11 @@
 .acc-wrap__right__block__table1 {
   margin: 2% 0;
   background-color: #fff;
-  width: 77.4%;
+  width: 89%;
   margin-left: 5%;
 }
 
-.acc-wrap__right__block__table1 table1 {
+.acc-wrap__right__block__table1 table {
   width: 100%;
 }
 
@@ -161,9 +161,9 @@
   background-color: #fff;
   border: solid 5px #E2D06E;
   border-radius: 50px;
-  width: 50%;
-  margin: 8%;
-  padding: 10%;
+  width: 55%;
+  margin: 12% 13%;
+  padding: 8%;
 }
 
 .top-wrap__con__block__item__bub {
@@ -272,3 +272,7 @@
   color: #000;
 }
 
+.acc-wrap__right__sub1{
+  font-size: 1rem;
+  color: #000;
+}
