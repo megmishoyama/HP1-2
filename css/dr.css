@@ -21,7 +21,9 @@
 
 .top-wrap__gree__main img{
   aspect-ratio: 3 / 2;
-  width: 40%;
+  width: 400px;
+  background-size: cover;
+  max-width: 400px;
 }
 
 .top-wrap__gree__main__txt{
