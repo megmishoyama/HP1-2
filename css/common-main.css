@@ -195,9 +195,11 @@ body{
   font-size: 0.9rem;
 }
 
-.res__block__item__tel strong {
+.res__block__item__tel h4 a {
   font-size: 1.3rem;
   padding: 1%;
+  text-decoration: unset;
+  color: #000;
 }
 
 /* タイトル */

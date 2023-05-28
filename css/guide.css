@@ -97,7 +97,7 @@
 }
 
 .top-wrap__block{
-  margin: auto;
+  margin-top: auto;
   width: 100%;
 }
 
@@ -274,7 +274,7 @@
   font-size: 1.7rem;
   font-weight: 500;
   color: black;
-  letter-spacing: 0.3rem;
+  letter-spacing: 0rem;
   background: linear-gradient(transparent 65%, rgba(232, 223, 178, 0.51) 35%);
 }
 

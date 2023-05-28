@@ -82,7 +82,7 @@
 }
 
 .care-wrap__left__list{
-  margin: 10% auto;
+  margin-top: 10%;
 }
 
 .care-wrap__left__list ul{
@@ -101,7 +101,7 @@
 }
 
 .care-wrap__right__list {
-  margin: 10% auto;
+  margin-top: 10%;
 }
 
 .care-wrap__right__list ul li {
