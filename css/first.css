@@ -37,13 +37,14 @@
   margin-right: 5%;
 }
 
-.top-wrap__res__item__left p{
+.top-wrap__res__item__left a{
   font-size: 1.8rem;
   font-weight: 500;
   align-items: center;
   padding: 5% 2%;
   width: 100%;
   color: black;
+  text-decoration: unset;
 }
 
 .top-wrap__res__item__right{

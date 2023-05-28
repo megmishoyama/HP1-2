@@ -152,7 +152,7 @@
   font-size: 1.8rem;
   font-weight: 500;
   color: black;
-  letter-spacing: 0.5rem;
+  letter-spacing: 0.2rem;
   background: linear-gradient(transparent 65%, rgba(226, 208, 110, 0.50) 35%);
 }
 
@@ -198,7 +198,7 @@
   margin: 3%;
   margin-left: 20%;
   border-radius: 20px;
-  padding: 1%;
+  padding: 1% 2%;
 }
 
 .skin-wrap__con__ttl{

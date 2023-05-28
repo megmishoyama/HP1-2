@@ -24,13 +24,17 @@
 }
 
 .ove-wrap__block{
-  margin: 3% 28%;
+  margin: 3% 26.5%;
+  width: 50%;
 }
 
 .ove-wrap__block__table{
   width: 100%;
   border-bottom: unset;
-  margin-left: 15%;
+}
+
+.ove-wrap__block__table table{
+  width: 100%;
 }
 
 .ove-wrap__block__table tr{
@@ -64,7 +68,7 @@
 .ove-wrap__par__ttl{
   position: relative;
   text-align: start;
-  margin: 3% 28%;
+  margin: 3% 25%;
   margin-bottom: 2%;
 }
 
@@ -96,14 +100,13 @@
 }
 
 .ove-wrap__par__list{
-  display: inline-block;
+  position: relative;
   background: radial-gradient(50% 50% at 50% 50%, rgba(226, 208, 110, 0.22) 0%, rgba(226, 208, 110, 0.44) 100%);
   align-items: center;
   justify-content: center;
-  width: 40%;
-  padding: 1%;
-  margin: 2%;
-  margin-left: 31%;
+  margin: 1% 26.5%;
+  width: 50%;
+  padding: 0.1%;
 }
 
 .ove-wrap__par__list__item{
@@ -125,12 +128,17 @@
   color: #000;
 }
 
+.hos-wrap{
+  padding-bottom: 5%;
+}
+
 .hos-wrap__list{
   position: relative;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
   align-items: center;
+  margin: 5%;
 }
 
 .hos-wrap__list__item{
@@ -138,7 +146,7 @@
   display: flex;
   flex-direction: column;
   position: relative;
-  max-width: 40%;
+  max-width: 30%;
   align-items: center;
   padding: 5% 0;
 }
@@ -146,15 +154,19 @@
 .hos-wrap__list__item img{
   aspect-ratio: 4 / 3;
   width: 50%;
+  border-radius: 10px;
+  box-shadow: 0px 10px 10px rgb(0 0 0 / 40%);
+  margin-bottom: 5%;
 }
 
 .hos-wrap__list__item h2{
   display: inline-block;
-  width: 30%;
+  width: 40%;
   font-size: 1.2rem;
   color: #000;
   text-align: center;
   align-items: center;
+  background: linear-gradient(transparent 65%, rgba(226, 208, 110, 0.50) 35%);
 }
 
 .hos-wrap__list__item p{
@@ -162,6 +174,7 @@
   font-weight: 100;
   color: #000;
   text-align: center;
+  padding: 3%;
 }
 
 .hos-wrap__list__item2 {
